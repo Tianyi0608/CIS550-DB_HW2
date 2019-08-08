@@ -12,7 +12,7 @@ var mysql = require('mysql');
 var connection = mysql.createConnection({
   host: 'fling.seas.upenn.edu',
   user: 'zty',
-  password: 'Zhty9668!',
+  password: '***',
   database: 'zty'
 });
 
